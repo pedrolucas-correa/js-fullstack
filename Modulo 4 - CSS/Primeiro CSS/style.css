@@ -1,8 +1,40 @@
 li {
-  color: green;
+  color: yellowgreen;
+}
+
+h4 {
+  color: cornsilk;
+  border-style: dotted;
+  border-color: cyan;
+  border-width: 3px;
+}
+
+ul {
+  border-style: ridge;
+  border-color: cyan;
+  border-width: 3px;
 }
 
 h1 {
   font-size: 50px;
   color: purple;
+
+  border: 2px dashed cyan;
+}
+
+body {
+  background-color: black;
+  /*background-image: url("https://www.spacex.com/static/images/falcon-heavy/FH_1.webp");*/
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.moon {
+  color: orange;
+  font-size: x-large;
+}
+
+#eu-text {
+  font-size: 30px;
+  color: blueviolet;
 }
