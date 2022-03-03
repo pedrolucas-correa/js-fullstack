@@ -1,0 +1,19 @@
+h1 + p {
+  font-family: 'Roboto', Arial, sans-serif;
+}
+
+p + p {
+  font-family: monospace;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 1.5;
+  text-decoration: line-through;
+}
+
+h1 {
+  font-family: 'Geostar', 'Roboto', sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
