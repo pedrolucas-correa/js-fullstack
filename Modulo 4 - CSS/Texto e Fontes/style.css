@@ -1,5 +1,5 @@
 h1 + p {
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
 }
 
 p + p {
@@ -11,9 +11,19 @@ p + p {
 }
 
 h1 {
-  font-family: 'Geostar', 'Roboto', sans-serif;
+  font-family: "Geostar", "Roboto", sans-serif;
   text-align: center;
   text-decoration: underline;
-  margin-top: 40px;
-  margin-bottom: 40px;
+
+  margin: 70px auto 70px auto;
+  /*
+  margin-top: 70px;
+  margin-right: auto;
+  margin-bottom: 70px;
+  margin-left: auto;
+  */
+
+  width: 70%;
+  border: 1px solid;
+  padding: 10px; /*ou padding: 10px 10px 10px 10px*/
 }
