@@ -1,3 +1,30 @@
 .date {
-color: #008080;
+  color: #008080;
+  font-family: "Roboto", Arial, sans-serif;
+  padding: 40px 60px 0px 60px;
+}
+
+h1 {
+  font-weight: 500;
+  font-family: "Montserrat", Arial, sans-serif;
+  padding: 0px 60px 0px 60px;
+}
+
+p {
+  margin: 0;
+}
+
+.post-content {
+  font-family: "Open Sans", Arial, sans-serif;
+  padding: 0px 60px 40px 60px;
+}
+
+div {
+  background-color: #fffafa;
+}
+
+body {
+  margin: 0;
+  padding-left: 165px;
+  padding-right: 165px;
 }
