@@ -1,30 +1,33 @@
 .date {
   color: #008080;
   font-family: "Roboto", Arial, sans-serif;
-  padding: 40px 60px 0px 60px;
+}
+
+.post {
+  margin-bottom: 50px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.post-content {
+  font-family: "Open Sans", Arial, sans-serif;
+  width: 90%;
+  font-weight: normal;
+}
+
+.post-container {
+  /*                  #fffafa*/
+  background-color: #fc9595;
+  width: 70%;
+  height: 100%;
+  margin: 0% auto 0px auto;
 }
 
 h1 {
   font-weight: 500;
   font-family: "Montserrat", Arial, sans-serif;
-  padding: 0px 60px 0px 60px;
-}
-
-p {
-  margin: 0;
-}
-
-.post-content {
-  font-family: "Open Sans", Arial, sans-serif;
-  padding: 0px 60px 40px 60px;
-}
-
-div {
-  background-color: #fffafa;
 }
 
 body {
-  margin: 0;
-  padding-left: 165px;
-  padding-right: 165px;
+  margin: 0px;
 }
