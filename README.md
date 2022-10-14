@@ -5,18 +5,23 @@ Curso FullStack em JavaScript pelo OneBitCode.
 Módulos:
 
 - HTML ✔️
-- CSS + bônus ✔️
-- Bulma (Framework CSS) 
-- JavaScript + Lógica de programação (Essencial ao intermediário)
+- CSS ✔️
+- CSS Moderno
+- Sass
+- Bootstrap
+- JavaScript I - Lógica de programação
+- JavaScript II - DOM
+- JavaScript III - JS Moderno
+- JavaScript Programação Orientada a Objetos
+- JavaScript Avançado
 - Git e Github
-- JavaScript Moderno (ES6+)
 - React
 - NodeJS + MongoDB
 - Typescript
 - Banco de dados SQL + NodeJS (Sequelize)
 
 Bônus: 
-  - Sass
-  - Bootstrap
-  - CSS Flexbox && Gridbox 
+  - Bulma (Framework CSS) 
+
+
   
