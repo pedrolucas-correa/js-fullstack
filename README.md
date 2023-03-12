@@ -10,7 +10,7 @@ Módulos:
 - Sass
 - Bootstrap
 - JavaScript I - Lógica de programação ✔️
-- JavaScript II - DOM 
+- JavaScript II - DOM
 - JavaScript III - JS Moderno
 - JavaScript Programação Orientada a Objetos
 - JavaScript Avançado
@@ -20,8 +20,6 @@ Módulos:
 - Typescript
 - Banco de dados SQL + NodeJS (Sequelize)
 
-Bônus: 
-  - Bulma (Framework CSS) 
+Bônus:
 
-
-  
+- Bulma (Framework CSS)
