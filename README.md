@@ -6,11 +6,11 @@ Módulos:
 
 - HTML ✔️
 - CSS ✔️
-- CSS Moderno
+- CSS Moderno ✔️
 - Sass
 - Bootstrap
-- JavaScript I - Lógica de programação
-- JavaScript II - DOM
+- JavaScript I - Lógica de programação ✔️
+- JavaScript II - DOM 
 - JavaScript III - JS Moderno
 - JavaScript Programação Orientada a Objetos
 - JavaScript Avançado
